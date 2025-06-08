@@ -1,0 +1,6 @@
+app\DigitPreprocessor.class
+app\MainApp.class
+app\CameraHandler.class
+app\DisplayWindow.class
+app\CNNModel.class
+app\Trainer.class
